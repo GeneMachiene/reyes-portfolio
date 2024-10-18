@@ -1,7 +1,7 @@
 import { TypeAnimation } from 'react-type-animation'
 import { NavLink } from 'react-router-dom'
 import Gene from './assets/Gene.webp'
-import cv from './assets/REYES_Resume.pdf'
+import cv from './assets/Gene Anthony Reyes - Resume.pdf'
 import { useEffect } from 'react';
 
 
