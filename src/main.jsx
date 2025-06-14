@@ -39,6 +39,10 @@ const router = createBrowserRouter([
         element: <Redirect link={'https://genemotherly.malayan.online/'}/>,
       },
       {
+        path: "/themes",
+        element: <Redirect link={'https://themes-xi.vercel.app/'}/>,
+      },
+      {
         path: "/practicum",
         element: <Practicum/>,
       },
