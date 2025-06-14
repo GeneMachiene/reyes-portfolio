@@ -19,7 +19,7 @@ function Projects() {
   return (
     <div className="flex flex-wrap justify-center gap-6 p-6">
       <Card
-        href={"/gawa"}
+        href={"/themes"}
         src={themes}
         title='Themes' 
         text='Play this classic "Codenames" inspired game for your group gatherings!'
